@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T04:56:09.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="tLY2rruUeSNsSOuSW5zm" version="14.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-14T04:58:42.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="vmAt6NsnZJKJT8BWQZkC" version="14.3.1" type="github">
   <diagram id="GMXzVLVP1SBXpBR9r_tK" name="Page-1">
     <mxGraphModel dx="900" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,8 +127,11 @@
             <mxPoint x="490" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6RWYm0C16I1UkE2IKiko-77" value="&lt;h1&gt;메뉴반응&lt;/h1&gt;&lt;p&gt;ㅇ 매뉴별 좋아요 누를 숫자&lt;/p&gt;&lt;p&gt;ㅇ 실제 식당에 온 숫자&lt;/p&gt;&lt;p&gt;ㅇ 날씨, 나이, 요일,&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6RWYm0C16I1UkE2IKiko-77" value="&lt;h1&gt;메뉴반응&lt;/h1&gt;&lt;p&gt;ㅇ 별표 매뉴별 좋아요 누를 숫자&lt;/p&gt;&lt;p&gt;ㅇ 실제 식당에 온 숫자&lt;/p&gt;&lt;p&gt;ㅇ 날씨, 나이, 요일,&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="490" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="6RWYm0C16I1UkE2IKiko-78" value="&lt;h1&gt;식당 종료&lt;/h1&gt;&lt;div&gt;ㅇ 관리 부분에서 종료 버튼&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; -&amp;gt; 종료시 색 변경&lt;/div&gt;&lt;div&gt;ㅇ 매뉴 변경 안내&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="490" width="190" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
